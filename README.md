@@ -1,6 +1,6 @@
 # Customer_Analysis
 Data analytics project showing customer behavior analysis using python, sql and power BI.
-# **📊 Data Analytics Project – End-to-End Workflow
+# 📊 Data Analytics Project – End-to-End Workflow
 ## 🔍 Overview
 
 This project demonstrates a complete data analytics workflow—from loading and exploring a dataset in Python, to transforming it with SQL, and finally visualizing insights through a Power BI dashboard. The goal is to showcase practical skills in data cleaning, analysis, business intelligence, and storytelling.
